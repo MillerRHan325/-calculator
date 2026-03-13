@@ -25,3 +25,6 @@ elif choice == "4":
         print("Error: division by zero")
     else:
         print("Result:", a / b)
+
+else:
+    print("Invalid choice")
